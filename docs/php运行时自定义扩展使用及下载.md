@@ -30,22 +30,26 @@ extension=/code/extension/hello.so
 ###  自定义扩展下载
 
 
-<a href="https://php-so.oss-cn-hangzhou.aliyuncs.com/mongodb.so" download="mongodb.so">
+<a href="https://fc-faq.oss-cn-hangzhou.aliyuncs.com/php-so/mongodb.so?versionId=CAEQHhiBgMDmxrGX3RciIDg3OGM2MTYxNGU3YzQ2Y2Y5MzY3N2U3MmE3ZDA3NjQx" download="mongodb.so">
 mongodb.so
 </a><br>
 
-<a href="https://php-so.oss-cn-hangzhou.aliyuncs.com/pdo_sqlite%20%281%29.zip" download="pdo_sqlite.so">
+<a href="https://fc-faq.oss-cn-hangzhou.aliyuncs.com/php-so/gd.so?versionId=CAEQHhiBgID2xrGX3RciIDA3NTFiMzJmNTBlMTRmZjhiODFiZjFhYTlmNWI5YWQ3" download="gd.so">
+gd.so
+</a><br>
+
+<a href="https://fc-faq.oss-cn-hangzhou.aliyuncs.com/php-so/pdo_sqlite.zip?versionId=CAEQHhiBgICs7rqX3RciIDRiZmMzMDFlNTA1YjRlM2U5MGY0YTUxNDg0MDIyYmM4" download="pdo_sqlite.so">
 pdo_sqlite.so
 </a><br>
 
-<a href="https://php-so.oss-cn-hangzhou.aliyuncs.com/pgsql-demo%20%281%29.zip" download="pgsql.so">
+<a href="https://fc-faq.oss-cn-hangzhou.aliyuncs.com/php-so/pgsql-demo.zip?versionId=CAEQHhiBgICo7rqX3RciIDU2NmUwNzRhMDkyOTQzNWE5MDQ5ZWUwNjFhYjYzYTcw" download="pgsql.so">
 pgsql.so
 </a><br>
 
-<a href="https://php-so.oss-cn-hangzhou.aliyuncs.com/sqlsrv.zip" download="sqlsrv.so">
+<a href="https://fc-faq.oss-cn-hangzhou.aliyuncs.com/php-so/sqlsrv.zip?versionId=CAEQHhiBgMCBx7GX3RciIGY4MDhlNDU5OTVjNjQwNzJhOTJhM2Y2NThjMjBhZTQ1" download="sqlsrv.so">
 sqlsrv.so
 </a><br>
 
-<a href="https://php-so.oss-cn-hangzhou.aliyuncs.com/swoole.so" download="swoole.so">
+<a href="https://fc-faq.oss-cn-hangzhou.aliyuncs.com/php-so/swoole.so?versionId=CAEQHhiBgID5xrGX3RciIGE3NDBkOGQyY2EyZDQ3MjJiNTcyNGI4Y2I3YjdhOWY2" download="swoole.so">
 swoole.so
 </a>
