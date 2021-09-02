@@ -11,3 +11,5 @@
 - [php 运行时自定义扩展使用及下载](/docs/php运行时自定义扩展使用及下载.md)
 
 - [函数计算自定义 DNS](/docs/函数计算自定义DNS.md)
+
+- [No permission to assume the role](/docs/service_role.md)
