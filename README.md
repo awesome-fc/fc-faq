@@ -14,4 +14,8 @@
 
 - [No permission to assume the role](/docs/service_role.md)
 
+- [php运行时自定义扩展使用及下载.md](/docs/php运行时自定义扩展使用及下载.md)
+
+- [使用s工具安装字体.md](/docs/使用s工具安装字体.md)
+
 - [PHP Runtime 出错信息有 FastCGI](/docs/php-fastcgi.md)
