@@ -30,15 +30,11 @@ s init devsapp/ffmpeg-app -d ffmpeg-app
 - GetSprites: 功能强大雪碧图制作函数
 - VideoWatermark: 功能强大的视频添加水印功能
 
-> 目前 runtime 已经内置了 ffmpeg, 但是神龙机器暂时不支持，体验演示的话， 请先使用无神龙的青岛 region, 预计下周升级神龙会补齐
-
 ### 视频转码
 
 #### 1. 无编排单个函数直接转
 
 [simple-video-processing](https://github.com/awesome-fc/simple-video-processing)
-
-目前已经是 s 版本 ，并且代码包中没有 ffmepg，体验演示的话， 请先使用无神龙的青岛 region, 预计下周升级神龙会补齐
 
 #### 2. 工作流编排并行加速转
 
@@ -131,3 +127,7 @@ s init devsapp/start-word2pdf -d  start-word2pdf
 [fc-decompress-oss](https://github.com/awesome-fc/decompress-oss)
 
 readme 中有详细介绍
+
+## Application-Awesome Repo
+
+[Application-Awesome](https://github.com/devsapp/Application-Awesome)
