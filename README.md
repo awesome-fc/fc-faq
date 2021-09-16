@@ -19,3 +19,5 @@
 - [使用s工具安装字体.md](/docs/使用s工具安装字体.md)
 
 - [PHP Runtime 出错信息有 FastCGI](/docs/php-fastcgi.md)
+
+- [大代码包部署的实践案例](/docs/大代码包部署的实践案例.md)
