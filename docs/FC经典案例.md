@@ -40,8 +40,6 @@ s init devsapp/ffmpeg-app -d ffmpeg-app
 
 [fnf-video-processing](https://github.com/awesome-fc/fc-fnf-video-processing)
 
-TODO: 工作流暂时不支持青岛，所以目前版本还是有 ffmpeg 并且工具还是 fun， 下周会改造成 s 版本
-
 ### 全景录制
 
 ```
