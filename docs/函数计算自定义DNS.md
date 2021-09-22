@@ -8,4 +8,4 @@
 
 - 如果是 custom-container runtime， 直接在 Dockerfile 中修改 /etc/hosts
 
-- 如果是其他 runtime, 可以考虑使用这个方案 [如何在函数计算内部中自定义 DNS 解析](https://developer.aliyun.com/article/680746), 目前可以做到 tcp 层面上的解析， 比如 curl 是 OK 的， 但是 ping 域名此方案暂时不是 OK 的
+- 如果是其他 runtime, 可以考虑使用这个方案 [如何在函数计算内部中自定义 DNS 解析](https://developer.aliyun.com/article/680746), 目前可以做到 tcp 层面上的解析， 比如 curl 是 OK 的， 但是 ping 域名此方案暂时不生效
