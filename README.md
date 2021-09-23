@@ -14,10 +14,10 @@
 
 - [No permission to assume the role](/docs/service_role.md)
 
-- [php运行时自定义扩展使用及下载.md](/docs/php运行时自定义扩展使用及下载.md)
-
 - [使用s工具安装字体.md](/docs/使用s工具安装字体.md)
 
 - [PHP Runtime 出错信息有 FastCGI](/docs/php-fastcgi.md)
 
 - [大代码包部署的实践案例](/docs/大代码包部署的实践案例.md)
+
+- [CustomRuntime、phpRuntime安装自定义扩展](/docs/CustomRuntime、phpRuntime安装自定义扩展.md)

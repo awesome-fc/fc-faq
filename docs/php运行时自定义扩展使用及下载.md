@@ -34,10 +34,6 @@ extension=/code/extension/hello.so
 mongodb.so
 </a><br>
 
-<a href="https://fc-faq.oss-cn-hangzhou.aliyuncs.com/php-so/gd.so?versionId=CAEQHhiBgID2xrGX3RciIDA3NTFiMzJmNTBlMTRmZjhiODFiZjFhYTlmNWI5YWQ3" download="gd.so">
-gd.so
-</a><br>
-
 <a href="https://fc-faq.oss-cn-hangzhou.aliyuncs.com/php-so/pdo_sqlite.zip?versionId=CAEQHhiBgICs7rqX3RciIDRiZmMzMDFlNTA1YjRlM2U5MGY0YTUxNDg0MDIyYmM4" download="pdo_sqlite.so">
 pdo_sqlite.so
 </a><br>
