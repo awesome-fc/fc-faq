@@ -4,6 +4,8 @@
 
 - [为什么要使用 S 工具](/docs/为什么要使用S工具.md)
 
+- [S 工具十分钟 CookBook](/docs/s_fc_cookbook/index.md)
+
 - [custom and custom-container 入门示例](/docs/函数计算custom和custom-container入门示例.md)
 
 - [FC 经典案例](/docs/FC经典案例.md)
