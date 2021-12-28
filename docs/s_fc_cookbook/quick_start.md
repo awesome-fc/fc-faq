@@ -99,6 +99,7 @@ $ s deploy
 # $ s invoke -e '{"body":123,"method":"GET","headers":{"key":"value"},"queries":{"key":"value"},"path":"string"}'
 # event 是一个json str， 如果直接在命令行中输入 json 比较复杂的话， 可以把这个json str 保存在文件 evt.json 中， 然后
 # $ s invoke -f evt.json
+# 比如上面例子的 evt.json 文件可以使用 s cli fc-event http  生成 event 模板
 ```
 ![image.png](https://img.alicdn.com/imgextra/i1/O1CN01hREZ9H1jX9bKM4XI5_!!6000000004557-2-tps-1403-487.png)
 
