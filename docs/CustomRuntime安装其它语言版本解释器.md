@@ -70,7 +70,9 @@ chmod 755 ./bin/node
 ![image.png](https://img.alicdn.com/imgextra/i3/O1CN0189MOZF1LQhF9ZNlSN_!!6000000001294-2-tps-2726-312.png)
 
 
-### ​如果使用 s 工具， 可以参考： https://github.com/devsapp/start-fc/tree/master/custom-function/nodejs12/fc-custom-nodejs12-event/src
+### 其他
 
-​
+如果使用 s 工具， 可以参考： https://github.com/devsapp/start-fc/tree/master/custom-function/nodejs12/fc-custom-nodejs12-event/src
+
+
 
