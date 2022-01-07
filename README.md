@@ -8,6 +8,8 @@
 
 - [custom and custom-container 入门示例](/docs/函数计算custom和custom-container入门示例.md)
 
+- [CustomRuntime安装其它语言版本解释器](/docs/CustomRuntime安装其它语言版本解释器.md)
+
 - [FC 经典案例](/docs/FC经典案例.md)
 
 - [php 运行时自定义扩展使用及下载](/docs/php运行时自定义扩展使用及下载.md)
