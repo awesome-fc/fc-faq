@@ -28,14 +28,15 @@
 ![image.png](https://img.alicdn.com/imgextra/i2/O1CN014wDV2H1JKclHn1koH_!!6000000001010-2-tps-1410-526.png)
 
 3. 代码目录
-   1. 创建 bootstrap 文件​
+
+- 3.1 创建 bootstrap 文件
 ```javascript
 #!/bin/bash
 
 ./bin/node index.js
 ```
 
-   2. 创建 index.js 文件
+- 3.2 创建 index.js 文件
 ```javascript
 const http = require("http");
 
