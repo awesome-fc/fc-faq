@@ -1,6 +1,6 @@
 # 简介
 
-- [FC 常见问题索引](https://help.aliyun.com/knowledge_detail/56103.html)
+- [FC 常见问题索引](https://help.aliyun.com/document_detail/56102.html)
 
 - [为什么要使用 S 工具](/docs/为什么要使用S工具.md)
 
