@@ -27,3 +27,5 @@
 - [CustomRuntime、phpRuntime安装自定义扩展](/docs/CustomRuntime、phpRuntime安装自定义扩展.md)
 
 - [使用s工具进行克隆函数](/docs/使用s工具进行克隆函数.md)
+
+- [使用s工具实现函数多region部署](/docs/使用s工具实现函数多region部署.md)
