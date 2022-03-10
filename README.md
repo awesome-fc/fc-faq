@@ -29,3 +29,5 @@
 - [使用s工具进行克隆函数](/docs/使用s工具进行克隆函数.md)
 
 - [使用s工具实现函数多region部署](/docs/使用s工具实现函数多region部署.md)
+
+- [浏览器 js 如何调用函数](https://github.com/awesome-fc/fc-api-js)
