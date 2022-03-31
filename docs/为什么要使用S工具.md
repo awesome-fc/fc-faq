@@ -5,7 +5,7 @@ position: 2
 category: '概述'
 ---
 
-# 简介
+# 为什么要使用S工具
 
 Serverless Devs 支持插件制， 已经有很好的插件完全取代之前的老工具 Funcraft 和 fcli
 

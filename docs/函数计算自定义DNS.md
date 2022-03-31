@@ -5,7 +5,7 @@ position: 7
 category: '概述'
 ---
 
-# 简介
+# 函数计算自定义 DNS
 
 函数计算现在支持配置自定义DNS,但是仅支持函数计算官方提供的Runtime和Custom Runtime [查看详情](https://help.aliyun.com/document_detail/359904.html) 
 
