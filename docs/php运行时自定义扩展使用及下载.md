@@ -1,3 +1,10 @@
+---
+title: PHP运行时自定义扩展使用及下载
+description: 'PHP运行时自定义扩展使用及下载'
+position: 6
+category: '概述'
+---
+
 ## PHP运行时自定义扩展使用及下载
 
 ### 自定义扩展使用

@@ -1,3 +1,10 @@
+---
+title: S工具多region部署
+description: 'S工具多region部署'
+position: 14
+category: '概述'
+---
+
 ## S工具多region部署
 
 ### shell 脚本
