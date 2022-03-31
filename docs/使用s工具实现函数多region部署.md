@@ -5,7 +5,7 @@ position: 14
 category: '概述'
 ---
 
-## S工具多region部署
+# S工具多region部署
 
 ### shell 脚本
 

@@ -5,8 +5,9 @@ position: 5
 category: 'FC_CookBook'
 ---
 
+# 快速开始
 
-# 部署一个Hello World 事件函数
+## 部署一个Hello World 事件函数
 
 
 在完成[工具安装](./install.md)以及[密钥配置](./config.md)后，我们可以尝试来部署一个简单的 Serverless 应用。

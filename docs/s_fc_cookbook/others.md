@@ -5,8 +5,7 @@ position: 9
 category: 'FC_CookBook'
 ---
 
-
-## 常用 Tips
+# 常用 Tips
 
 在很多时候， 我们执行一些命令完成一些事情， 不想依赖一个 yml 去完成事情， FC 组件提供了  cli 模式完成一些事宜， 下面列一些很有用的小 TIPS: 
 

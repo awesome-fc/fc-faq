@@ -5,7 +5,7 @@ position: 10
 category: '概述'
 ---
 
-# 简介
+# PHP Runtime 出错信息有 FastCGI
 
 因为历史原因， 一些老的用户使用 php runtime 的时候， 使用了函数计算提供的 $GLOBALS['fcPhpCgiProxy'] 对象用来和 php-fpm 进行交互。
 
