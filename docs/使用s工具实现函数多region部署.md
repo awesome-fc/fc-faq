@@ -16,7 +16,7 @@ regions=("cn-hangzhou" "ap-southeast-1")
 for r in ${regions[@]}
 do
   export REGION=$r
-  export LOG_PROJECT="fc-console-function-$r"
+  export LOG_PROJECT="fc-function-$r"
   s deploy -y --use-local
 done
 ```
@@ -26,7 +26,7 @@ done
 ```yaml
 edition: 1.0.0
 name: compoent-test
-access: 'fc-console-access'
+access: 'default'
 
 vars:
   region: ${env(REGION)}
