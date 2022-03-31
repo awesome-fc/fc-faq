@@ -1,3 +1,11 @@
+---
+title: 快速开始
+description: '快速开始'
+position: 5
+category: 'FC_CookBook'
+---
+
+
 # 部署一个Hello World 事件函数
 
 

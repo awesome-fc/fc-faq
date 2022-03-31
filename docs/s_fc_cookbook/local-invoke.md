@@ -1,3 +1,11 @@
+---
+title: 本地调试
+description: '本地调试'
+position: 7
+category: 'FC_CookBook'
+---
+
+
 所谓的本地调试， 即在本地启动一个 docker 容器模拟函数计算线上的执行环境， 然后 mock event 参数传入调用。
 ​
 

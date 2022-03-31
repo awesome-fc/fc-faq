@@ -1,3 +1,10 @@
+---
+title: CustomRuntime、phpRuntime安装自定义扩展
+description: 'CustomRuntime、phpRuntime安装自定义扩展'
+position: 12
+category: '概述'
+---
+
 # CustomRuntime、phpRuntime安装自定义扩展
 
 ### 在使用CustomRuntime、phpRuntime时会需要安装使用一些扩展库，那如何进行安装呢？本文就以安装mongodb扩展为例对此进行介绍。
