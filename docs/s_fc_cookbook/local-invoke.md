@@ -42,4 +42,6 @@ s local start -h
 - 表格存储触发器， 这种二进制的 event 很难 mock
 
 
+[本地调试详情](https://www.serverless-devs.com/fc/command/local)
+
 因此， 端云联调作为 serverless 调试的终态方案来解决本地开发环境和线上环境联调打通。

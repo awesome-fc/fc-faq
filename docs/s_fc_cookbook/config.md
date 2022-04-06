@@ -20,7 +20,7 @@ category: 'FC_CookBook'
 也可以通过以下步骤在[函数计算首页](https://fc.console.aliyun.com/)快速获取密钥信息：
 ![](https://img.alicdn.com/tfs/TB13J02wp67gK0jSZPfXXahhFXa-2424-1380.png#id=KZH0d&originHeight=1380&originWidth=2424&originalType=binary&ratio=1&status=done&style=none)
 ![](https://img.alicdn.com/tfs/TB1cYuGwuH2gK0jSZJnXXaT1FXa-2424-1380.png#id=QHII7&originHeight=1380&originWidth=2424&originalType=binary&ratio=1&status=done&style=none)
-1. 按照命令行提醒，填入对应的`AccountID`, `AccessKeyID`, `AccessKeySecret`等信息，并推荐您为该密钥提供一个别名（`Alias`）以便于后续配置多密钥时可以更容易区分（密钥别名默认为`default`）。
+1. 按照命令行提醒，填入对应的 `AccessKeyID`, `AccessKeySecret`等信息，并推荐您为该密钥提供一个别名（`Alias`）以便于后续配置多密钥时可以更容易区分（密钥别名默认为`default`）。
 
 
 

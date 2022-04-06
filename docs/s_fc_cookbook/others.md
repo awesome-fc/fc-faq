@@ -24,7 +24,7 @@ s cli fc remove --region cn-hangzhou --service-name s --access default
 ```
 
 ### 4. 版本、别名、预留相关
-直接参考  [https://help.aliyun.com/document_detail/295906.html](https://help.aliyun.com/document_detail/295906.html) 使用 cli 模式
+直接参考 [fc api](https://www.serverless-devs.com/fc/command/api) 使用 cli 模式
 
 ### 5. 更多
-[常见小贴士](https://gitee.com/devsapp/fc/blob/main/docs/zh/tips.md)
+[常见小贴士](https://www.serverless-devs.com/fc/tips)

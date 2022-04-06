@@ -122,3 +122,4 @@ $ s deploy
 - [FC 企业级经典案例](https://github.com/awesome-fc/fc-faq/blob/main/docs/FC%E7%BB%8F%E5%85%B8%E6%A1%88%E4%BE%8B.md)
   > 如果网络不流畅， 可以使用备份地址 [FC 企业级经典案例](https://gitee.com/aliyunfc/fc-faq/blob/main/docs/FC%E7%BB%8F%E5%85%B8%E6%A1%88%E4%BE%8B.md)
 - [https://github.com/devsapp/Application-Awesome](https://github.com/devsapp/Application-Awesome)  更多应用级别示例
+  > 如果网络不流畅， 可以使用备份地址 [Application-Awesome](https://gitee.com/devsapp/Application-Awesome)
