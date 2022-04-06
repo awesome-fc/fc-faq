@@ -23,4 +23,4 @@ category: 'FC_CookBook'
 
 ## 端云联调
 
-[端云联调文档](https://help.aliyun.com/document_detail/195642.html)
+[端云联调文档](https://www.serverless-devs.com/fc/command/proxied)

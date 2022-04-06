@@ -12,7 +12,7 @@ category: 'FC_CookBook'
 
 在实际场景中， 部署在 FC 的业务函数大都需要依赖第三方库就构建完成， 因此， 有第三方包依赖的函数怎么快速构建部署到函数计算平台是一个重要的事宜。阿里云函数计算（FC）组件为使用者提供了FC相关资源的构建/安装依赖的能力。可以通过`build`指令，快速进行构建/安装依赖操作。
 
-指令详情参考 [build](https://gitee.com/devsapp/fc/blob/main/docs/zh/command/build.md)
+指令详情参考 [build](https://www.serverless-devs.com/fc/command/build)
 
 
 - 对于解释型语言， 如 nodejs、python、php,  build 操作完成的事情是安装第三方依赖
