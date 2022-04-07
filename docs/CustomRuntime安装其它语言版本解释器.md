@@ -12,7 +12,7 @@ category: '概述'
 
 
 1. Custom Container：系统完全有由用户自己控制，代码包限制比较小；但是冷启动会比较严重。
-1. Custom：和 Custom Container 相比，冷启动有非常大的优化，和其他的原生的运行环境基本一致，自身也[内置](https://help.aliyun.com/document_detail/132044.html#title-wi6-beu-a0k)了一些执行环境；安装执行环境相对复杂，对 window 用户有点不太友好，代码包本身就小还会占用一部分的代码空间。（本文主要讲述 Custom）
+1. Custom：和 Custom Container 相比，冷启动有非常大的优化，和其他的原生的运行环境基本一致，自身也[内置](https://help.aliyun.com/document_detail/132044.html#title-wi6-beu-a0k)了一些执行环境；安装执行环境相对复杂，对 window 用户有点不太友好，代码包本身就小还会占用一部分的代码空间。（本文主要讲述 Custom Runtime）
 
 ​
 
