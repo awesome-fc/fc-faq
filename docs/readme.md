@@ -39,3 +39,5 @@ category: '概述'
 - [使用s工具实现函数多region部署](./使用s工具实现函数多region部署.md)
 
 - [浏览器 js 如何调用函数](https://github.com/awesome-fc/fc-api-js)
+
+- [函数计算子账号权限设置](./子账号权限.md)
