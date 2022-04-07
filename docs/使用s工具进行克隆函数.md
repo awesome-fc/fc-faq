@@ -8,7 +8,7 @@ category: '概述'
 
 # 使用s工具进行克隆函数
 
-### 在s工具中有一个s sync命令，我们可以通过这个命令实现快速克隆函数。[查看详情](https://help.aliyun.com/document_detail/295906.html)，也可以通过执行`s cli fc sync -h`查看帮助信息
+### 在s工具中有一个s sync命令，我们可以通过这个命令实现快速克隆函数。[查看详情](https://www.serverless-devs.com/fc/command/sync)，也可以通过执行`s cli fc sync -h`查看帮助信息
 ```
 Sync
 
