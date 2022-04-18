@@ -1,7 +1,7 @@
 ---
 title: 快速开始
 description: '快速开始'
-position: 5
+position: 6
 category: 'FC_CookBook'
 ---
 

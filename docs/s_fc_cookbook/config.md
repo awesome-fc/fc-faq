@@ -1,7 +1,7 @@
 ---
 title: 配置阿里云密钥
 description: '配置阿里云密钥'
-position: 4
+position: 5
 category: 'FC_CookBook'
 ---
 

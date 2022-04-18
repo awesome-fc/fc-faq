@@ -1,7 +1,7 @@
 ---
 title: 安装Serverless-Devs
 description: '安装Serverless-Devs'
-position: 3
+position: 4
 category: 'FC_CookBook'
 ---
 
