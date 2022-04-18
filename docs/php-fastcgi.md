@@ -9,13 +9,14 @@ category: '概述'
 
 因为历史原因， 一些老的用户使用 php runtime 的时候， 使用了函数计算提供的 $GLOBALS['fcPhpCgiProxy'] 对象用来和 php-fpm 进行交互。
 
-> 强烈建议不要再使用这个接口，函数计算目前已经支持了自定义镜像， 感兴趣的同学直接使用镜像体验更流畅，使用 custom-container, 和传统的 php 使用方法一致， 通过 S 工具可以一键部署
+> 强烈建议不要再使用这个接口，函数计算目前已经支持了自定义镜像， 感兴趣的同学直接使用镜像体验更流畅，使用 custom runtime, 和传统的 php 使用方法一致， 通过 S 工具可以一键部署， 也可以根据 readme 中的通过控制台应用中心一键部署。
 >
-> - [start-laravel](https://github.com/devsapp/start-laravel)
-> - [start-thinkphp](https://github.com/devsapp/start-thinkphp)
-> - [start-zblog](https://github.com/devsapp/start-zblog)
-> - [start-wordpress](https://github.com/devsapp/start-wordpress)
-> - [start-discuz](https://github.com/devsapp/start-discuz)
+> - [ThinkPHP](https://github.com/devsapp/start-web-framework/tree/master/web-framework/php/thinkphp/src)
+> - [Laravel](https://github.com/devsapp/start-web-framework/tree/master/web-framework/php/laravel/src)
+> - [Wordpress](https://github.com/devsapp/start-web-framework/tree/master/web-framework/php/wordpress/src)
+> - [Z-BlogPHP](https://github.com/devsapp/start-web-framework/tree/master/web-framework/php/zblog/src)
+> - [Swoole](https://github.com/devsapp/start-fc/tree/master/custom-function/php74)
+
 
 主要使用了这个接口：
 
