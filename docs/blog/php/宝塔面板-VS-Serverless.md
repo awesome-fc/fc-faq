@@ -1,5 +1,5 @@
 ---
-title: 宝塔面板 VS Serverless.md
+title: 宝塔面板 VS Serverless
 description: '宝塔面板-VS-Serverless'
 position: 5
 category: 'FC_Blog'
@@ -51,7 +51,7 @@ category: 'FC_Blog'
   > 函数计算通过部署 KodBox 辅助函数来实现
 
 - 快速预览服务器资源使用情况
-  > 函数计算控制台提供实例级别的监控，在 serverless 领域中，这个值可能没有那么重要， 因为会根据请求直接弹性扩容， 很小会出现服务器资源瓶颈问题。
+  > 函数计算控制台提供实例级别的监控，在 serverless 领域中，这个值可能没有那么重要， 因为会根据请求直接弹性扩容， 很少会出现服务器资源瓶颈问题。
 
 - 一键安装软件及部署源码
   > 函数计算内置的 LNP 环境和充足的扩展， 源码可以借助 s nas 命令行或者 kodbox 辅助函数 UI（浏览器/客户端工具）更新或者上传，具体的视频教程见附录中的视频教程。
