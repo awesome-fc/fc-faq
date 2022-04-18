@@ -1,7 +1,7 @@
 ---
 title: 常用Tips
 description: '常用Tips'
-position: 9
+position: 10
 category: 'FC_CookBook'
 ---
 

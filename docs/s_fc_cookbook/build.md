@@ -1,7 +1,7 @@
 ---
 title: 安装第三方依赖和编译
 description: '安装第三方依赖和编译'
-position: 6
+position: 7
 category: 'FC_CookBook'
 ---
 
