@@ -2,8 +2,6 @@
 
 - [FC 常见问题索引](https://help.aliyun.com/document_detail/56102.html)
 
-- [博客](./docs/blog/readme.md)
-
 - S 工具
   - [S 工具十分钟 CookBook](./docs/s_fc_cookbook/readme.md)
   - [使用s工具安装字体.md](./docs/使用s工具安装字体.md)
