@@ -1,8 +1,8 @@
 ---
 title: 为什么要使用S工具
 description: '为什么要使用S工具'
-position: 3
-category: '概述'
+position: 2
+category: 'FC_CookBook'
 ---
 
 Serverless Devs 支持插件制， 已经有很好的插件完全取代之前的老工具 Funcraft 和 fcli
