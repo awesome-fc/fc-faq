@@ -6,6 +6,11 @@ category: '概述'
 ---
 # FC 经典解决方案
 
+
+## Application-Awesome Repo 大全
+
+[Application-Awesome](https://github.com/devsapp/Application-Awesome)
+
 ## 音视频
 
 ### 注意事项
@@ -23,14 +28,13 @@ category: '概述'
 ### ffmpeg 示例集锦
 
 ```
-s init devsapp/ffmpeg-app -d ffmpeg-app
+s init ffmpeg-app -d ffmpeg-app
 ```
 
-详情见: [ffmpeg-app](https://github.com/devsapp/ffmpeg-app)
+详情见: [ffmpeg-app](https://github.com/devsapp/start-ffmpeg/tree/master/ffmpeg-app/src)
 
 - AudioConvert: 音频格式转换器
 - GetMediaMeta: 获取音视频 meta
-- TranscodeMaster/TranscodeWorker: 功能强大的并行视频转码器
 - GetDuration: 获取音视频时长
 - VideoGif: 功能强大的 video 提取为 gif 函数
 - GetSprites: 功能强大雪碧图制作函数
@@ -40,7 +44,7 @@ s init devsapp/ffmpeg-app -d ffmpeg-app
 
 #### 1. 无编排单个函数直接转
 
-[simple-video-processing](https://github.com/awesome-fc/simple-video-processing)
+[video-transcode](https://github.com/devsapp/start-ffmpeg/tree/master/transcode/src)
 
 #### 2. 工作流编排并行加速转
 
@@ -49,71 +53,60 @@ s init devsapp/ffmpeg-app -d ffmpeg-app
 ### 全景录制
 
 ```
-s init devsapp/start-headless-ffmpeg -d start-headless-ffmpeg
+s init headless-ffmpeg -d headless-ffmpeg
 ```
 
-详情见: [start-headless-ffmpeg](https://github.com/devsapp/start-headless-ffmpeg)
+详情见: [start-headless-ffmpeg](https://github.com/devsapp/start-ffmpeg/tree/master/headless-ffmpeg/src)
 
 ### 视频直播流截图
 
 ```
-s init devsapp/start-rtmp-snapshot -d start-rtmp-snapshot
+s init rtmp-snapshot -d rtmp-snapshot
 ```
 
-详情见: [start-rtmp-snapshot](https://github.com/devsapp/start-rtmp-snapshot)
+详情见: [start-rtmp-snapshot](https://github.com/devsapp/start-ffmpeg/tree/master/rtmp-snapshot/src)
 
 ## AI
 
 ### 1. pytorch
 
 ```
-s init devsapp/start-pytorch -d start-pytorch
+s init start-pytorch -d start-pytorch
 ```
 
-详情见: [start-pytorch](https://github.com/devsapp/start-pytorch)
+详情见: [start-pytorch](https://github.com/devsapp/start-ai/tree/master/start-pytorch/src)
 
 ### 2. tensorflow
 
 ```
-s init devsapp/start-tensorflow -d start-tensorflow
+s init start-tensorflow -d start-tensorflow
 ```
 
-详情见: [start-tensorflow](https://github.com/devsapp/start-tensorflow)
+详情见: [start-tensorflow](https://github.com/devsapp/start-ai/tree/master/start-tensorflow/src)
 
 ### 3. OCR
 
 ```
-s init devsapp/start-ocr -d start-ocr
+s init start-ocr -d start-ocr
 ```
 
-详情见: [start-ocr](https://github.com/devsapp/start-ocr)
+详情见: [start-ocr](https://github.com/devsapp/start-ai/tree/master/start-ocr/src)
 
 ## 前端领域
 
-### 1. Puppeter 应用示例
-
-```
-s init devsapp/start-puppeteer -d start-puppeteer
-```
+### Puppeter 应用示例
 
 详情见: [puppeter 应用示例](https://github.com/devsapp/start-puppeteer)
 
 提供了两种部署方式， nodejs12 runtime 和 custom container， 建议直接使用 custom container
 
-### 2. SSR 应用示例
-
-```
-s init nodejs-nuxt
-```
-
-详情见 [nodejs-nuxt-ssr](https://github.com/devsapp/nodejs-nuxt)
 
 ## 文档图片转换相关
 
 ### 1. 基于 GS 和 GM 的 PDF 转 JPG 实践
 
 ```
-s init devsapp/start-pdf2img -d start-pdf2img
+s init start-pdf2img -d start-pdf2img
 ```
 
 详情见: [基于 GS 和 GM 的 PDF 转 JPG 实践](https://github.com/devsapp/start-pdf2img)
@@ -121,7 +114,7 @@ s init devsapp/start-pdf2img -d start-pdf2img
 ### 2. 基于 LibreOffice 实现 word 转 pdf
 
 ```
-s init devsapp/start-word2pdf -d  start-word2pdf
+s init start-word2pdf -d  start-word2pdf
 ```
 
 详情见: [基于 LibreOffice 实现 word 转 pdf](https://github.com/devsapp/start-word2pdf)
@@ -131,7 +124,3 @@ s init devsapp/start-word2pdf -d  start-word2pdf
 [fc-decompress-oss](https://github.com/awesome-fc/decompress-oss)
 
 readme 中有详细介绍
-
-## Application-Awesome Repo
-
-[Application-Awesome](https://github.com/devsapp/Application-Awesome)

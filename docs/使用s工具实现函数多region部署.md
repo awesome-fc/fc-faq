@@ -42,7 +42,7 @@ vars:
 
 services:
   test:
-    component: devsapp/fc  # 组件名称
+    component: fc  # 组件名称
     props: #  组件的属性值
       region: ${vars.region}
       service: ${vars.service}
