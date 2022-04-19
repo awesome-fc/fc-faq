@@ -9,8 +9,6 @@ category: '概述'
 
 - [FC 常见问题索引](https://help.aliyun.com/document_detail/56102.html)
 
-- [博客](./blog/readme.md)
-
 - S 工具
   - [S 工具十分钟 CookBook](./s_fc_cookbook/readme.md)
   - [使用s工具安装字体.md](./使用s工具安装字体.md)
