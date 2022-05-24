@@ -24,3 +24,4 @@
   - [PHP Runtime 出错信息有 FastCGI](./docs/php-fastcgi.md)
   - [Custom/PHP Runtime安装自定义扩展](./docs/CustomRuntime、phpRuntime安装自定义扩展.md)
   - [大代码包部署的实践案例](./docs/大代码包部署的实践案例.md)
+  - [使用FC修改NAS文件权限](./docs/使用FC修改NAS文件权限.md)
