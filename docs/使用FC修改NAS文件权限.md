@@ -1,3 +1,9 @@
+---
+title: 使用FC修改NAS文件权限
+description: '使用FC修改NAS文件权限'
+position: 13
+category: '概述'
+---
 ## 真实案例
 
 用户使用了函数计算的应用中心创建了一个 wordpress 应用，然后在使用过程中发现部分文件没有可执行的权限，然后咨询怎么修改文件权限。
