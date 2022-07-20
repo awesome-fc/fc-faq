@@ -30,4 +30,5 @@ category: '概述'
   - [PHP 运行时自定义扩展使用及下载](./php运行时自定义扩展使用及下载.md)
   - [PHP Runtime 出错信息有 FastCGI](./php-fastcgi.md)
   - [Custom/PHP Runtime安装自定义扩展](./CustomRuntime、phpRuntime安装自定义扩展.md)
+  - [如何开发发布一个ServerlessDevs的应用](./如何开发发布一个ServerlessDevs的应用.md)
   - [大代码包部署的实践案例](./大代码包部署的实践案例.md)
