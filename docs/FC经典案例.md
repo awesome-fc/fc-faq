@@ -6,6 +6,7 @@ category: '概述'
 ---
 # FC 经典解决方案
 
+可以直接登录函数计算控制台[应用中心](https://fcnext.console.aliyun.com/applications/create) 查看或者创建应用
 
 ## Application-Awesome Repo 大全
 
