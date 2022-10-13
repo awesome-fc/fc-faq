@@ -67,9 +67,7 @@
 
 1. 函数本身逻辑有问题， 导致执行环境退出，需要用户增加日志调试下代码，多现于下游数据库问题
    
-2. 调用函数的 client 端主动 cancel 导致， 比如函数的执行时长是10s, 但是client 端（比如 sdk）调用函数自己的设置的 timeout 是 5s； 这里建议调用函数的 client 端的 timeout 要稍稍大于函数设置的 timeout
-   
-3. 如果是custom runtime 出现这种情况， 最有可能是因为实现的 custom runtime 的 http server 没有文档中的第3个条件： connection 最好设置为 keep alive,请求超时时间至少设置在 15 分钟以上
+2. 如果是custom runtime 出现这种情况， 最有可能是因为实现的 custom runtime 的 http server 没有文档中的第3个条件： connection 最好设置为 keep alive,请求超时时间至少设置在 15 分钟以上
 
 **8. 触发器不能正常触发函数调用**
 
