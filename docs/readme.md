@@ -11,7 +11,6 @@ category: '概述'
 
 - S 工具
   - [S 工具十分钟 CookBook](./s_fc_cookbook/readme.md)
-  - [使用s工具安装字体.md](./使用s工具安装字体.md)
   - [使用s工具进行克隆函数](./使用s工具进行克隆函数.md)
   - [使用s工具实现函数多region部署](./使用s工具实现函数多region部署.md)
 
@@ -25,6 +24,7 @@ category: '概述'
   - [浏览器 js 如何调用函数](./fc-js.md)
 
 - 其他
+  - [函数计算使用自定义字体](./函数计算使用自定义字体.md)
   - [CustomRuntime安装其它语言版本解释器](./CustomRuntime安装其它语言版本解释器.md)
   - [函数计算自定义 DNS](./函数计算自定义DNS.md)
   - [PHP 运行时自定义扩展使用及下载](./php运行时自定义扩展使用及下载.md)
