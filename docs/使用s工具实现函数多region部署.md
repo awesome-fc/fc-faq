@@ -30,7 +30,7 @@ access: 'default'
 
 vars:
   region: ${env(REGION)}
-  service: # service 配置原则上不能修改， 如果有改动，请和 fengchong/xiliu 对齐下
+  service: 
     name: test-service
     internetAccess: true
     logConfig:
